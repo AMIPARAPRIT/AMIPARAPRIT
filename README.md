@@ -6,11 +6,11 @@
 
 I'm a passionate **[COMPUTER ENGI..]** with expertise in **[HORDWEAR & SOFTWEAR]**. I thrive on building scalable, efficient, and intelligent solutions. My work revolves around **[CYBER SECURITY, DATA SCIENCE , AI--ML]**, and I’m constantly exploring new technologies to push the boundaries of innovation.
 
-- 💪 Passionate about **[Your Passion, e.g., Open Source, AI, Cloud Computing]**
-- 👨‍💻 Currently working on **[Your Current Project]**
-- 💡 Always learning **[Technologies/Concepts You Are Learning]**
-- 👥 Looking to collaborate on **[Your Preferred Collaboration Projects]**
-- 🌐 Explore my work at **[Your Portfolio/Website Link]**
+- 💪 Passionate about **[Professional Photographer, Open Source, AI, Cloud Computing]**
+- 👨‍💻 Currently working on **[DNA data storage ]**
+- 💡 Always learning
+- 👥 Looking to collaborate on 
+- 🌐 Explore my work at **[[ PortfolioYour/Website Link](https://amiparaprit.github.io/portfolio/)]**
 
 ## 🏆 Skills & Expertise
 
@@ -49,19 +49,28 @@ I'm a passionate **[COMPUTER ENGI..]** with expertise in **[HORDWEAR & SOFTWEAR]
 
 ### [DNA DATA STORAGE :](https://github.com/project)
 
-![DNA Data Storage](https://github.com/user-attachments/assets/4793d393-4d62-4312-bec2-53baa88d4c90)
-**Description:** DNA data storage involves encoding digital information into the sequence of nucleotides (A, T, C, G) in DNA molecules. Data is synthesized into DNA, which can be stored for long periods, and later retrieved through DNA sequencing. It offers extremely high data density and durability, but challenges include high costs, slow read/write speeds, and error correction. It's seen as a potential future solution for long-term data storage.
 
-- 🛠️ Built with **[1. Convert digital data into binary, then map it to DNA sequences.
-2. Use a DNA synthesizer to create physical DNA strands with the encoded data.
-3. Store the DNA and later retrieve data by sequencing the DNA.
-4. Decode the sequence back to binary data using software, with error correction methods to ensure integrity.]**
-- 🌟 Features: **[DNA data storage offers:
-1. **High density**: Can store vast amounts of data in tiny physical space.
-2. **Durability**: DNA can last thousands of years if stored properly.
-3. **Sustainability**: Low energy consumption compared to traditional storage.
-4. **Long-term archiving**: Ideal for archival storage with minimal degradation over time.]**
-- 🛡️ Security & performance optimized
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <div style="flex: 1;">
+    <strong>Built with:</strong>
+    <ol>
+      <li>Convert digital data into binary, then map it to DNA sequences.</li>
+      <li>Use a DNA synthesizer to create physical DNA strands with the encoded data.</li>
+      <li>Store the DNA and later retrieve data by sequencing the DNA.</li>
+      <li>Decode the sequence back to binary data using software.</li>
+      <li>Use error correction methods to ensure data integrity.</li>
+    </ol>
+
+    
+  </div>
+
+  <div style="flex: 0.5; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/4793d393-4d62-4312-bec2-53baa88d4c90" width="350px" alt="DNA Data Storage Image">
+  </div>
+
+</div>
+
 
 ### [Project Name](https://github.com/yourusername/project)
 **Description:** Another important project.
