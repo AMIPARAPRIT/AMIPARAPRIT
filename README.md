@@ -10,7 +10,7 @@ I'm a passionate **[COMPUTER ENGI..]** with expertise in **[HORDWEAR & SOFTWEAR]
 - 👨‍💻 Currently working on **[DNA data storage ]**
 - 💡 Always learning
 - 👥 Looking to collaborate on 
-- 🌐 Explore my work at **[[ PortfolioYour/Website Link](https://amiparaprit.github.io/portfolio/)]**
+- 🌐 Explore my work at **[(https://amiparaprit.github.io/portfolio/)]**
 
 ## 🏆 Skills & Expertise
 
