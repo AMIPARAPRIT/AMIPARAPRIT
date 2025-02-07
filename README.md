@@ -72,10 +72,6 @@ I'm a passionate **[COMPUTER ENGI..]** with expertise in **[HORDWEAR & SOFTWEAR]
 </div>
 
 
-### [Project Name](https://github.com/yourusername/project)
-**Description:** Another important project.
-- 🛠️ Built with **[Tech Stack]**
-- 🌟 Features: **[Key Features]**
 
 ## 💬 Connect with Me!
 
