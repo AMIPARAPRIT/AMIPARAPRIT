@@ -45,25 +45,7 @@ I'm a passionate **[COMPUTER ENGI..]** with expertise in **[HORDWEAR & SOFTWEAR]
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
 
-### [DNA DATA STORAGE :](https://github.com/project)
-
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <div style="flex: 1;">
-    <strong>Built with:</strong>
-    <ol>
-      <li>Convert digital data into binary, then map it to DNA sequences.</li>
-      <li>Use a DNA synthesizer to create physical DNA strands with the encoded data.</li>
-      <li>Store the DNA and later retrieve data by sequencing the DNA.</li>
-      <li>Decode the sequence back to binary data using software.</li>
-      <li>Use error correction methods to ensure data integrity.</li>
-    </ol>
-
-    
-  </div>
 
   <div style="flex: 0.5; text-align: right;">
     <img src="https://github.com/user-attachments/assets/4793d393-4d62-4312-bec2-53baa88d4c90" width="350px" alt="DNA Data Storage Image">
